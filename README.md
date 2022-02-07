@@ -2,8 +2,6 @@
 # CRUD de produtos desenvolvido com TypeScript em ambiente acadêmico
 
 # Dependências utilizadas
--   "@types/cors": "^2.8.12",
--  "@types/express": "^4.17.13",
 -   "bcryptjs": "^2.4.3",
 -   "celebrate": "^15.0.0",
 -   "cors": "^2.8.5",
