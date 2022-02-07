@@ -1,4 +1,3 @@
-# api-vendas-6s
 # CRUD de produtos desenvolvido com TypeScript em ambiente acadêmico
 
 # Dependências utilizadas
