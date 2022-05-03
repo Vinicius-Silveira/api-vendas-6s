@@ -1,6 +1,6 @@
-# CRUD de produtos desenvolvido com TypeScript em ambiente acadêmico
+### CRUD de produtos desenvolvido com TypeScript em ambiente acadêmico
 
-# Dependências utilizadas
+### Dependências utilizadas
 -   "bcryptjs": "^2.4.3",
 -   "celebrate": "^15.0.0",
 -   "cors": "^2.8.5",
